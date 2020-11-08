@@ -9,7 +9,7 @@ Em um jupyter notebook:
 - Removi a coluna "model" do dataset, pois estou trabalhando com apenas um modelo
 - Após todo o pré processamento da base de dados o dataset ficou da seguinte forma:
 
-    995 registros e um total de 7 colunas:
+    995 registros e um total de 8 colunas:
 
     | #   | Column       | Non-Null Count | Dtype   |
     | --- | ------------ | -------------- | ------- |
